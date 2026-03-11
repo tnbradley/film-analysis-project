@@ -1,0 +1,30 @@
+
+FILM ANALYSIS PROJECT - KEY INSIGHTS
+Generated: March 2025
+Dataset: 85,891 movies (2000-2024)
+
+=== GENRE PERFORMANCE ===
+Highest Rated Genres (Top 10):
+              Avg_Rating  Movie_Count
+primaryGenre                         
+Documentary         7.00         8132
+Biography           6.80         3525
+Animation           6.17          996
+Drama               6.02        23340
+Crime               5.87         4518
+
+=== POPULARITY vs QUALITY ===
+Correlation between votes and rating: 0.135
+Interpretation: Weak positive correlation
+
+=== HIDDEN GEMS ===
+Films with Rating ≥7.5 and Votes <5,000: 5,623
+Top genres for hidden gems: Documentary, Drama, Biography
+
+=== BLOCKBUSTERS ===
+Films with 100K+ votes: 1,970
+Most common blockbuster genres: Action, Comedy, Drama
+
+=== DECADE TRENDS ===
+Highest rated decade: 2000s (Avg: 5.87)
+Most productive decade: 2010s (41,024 films)
