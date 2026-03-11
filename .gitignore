@@ -1,6 +1,7 @@
-# Data files (too large for GitHub)
-data_raw/*.csv
-outputs/*.csv
+# Large data files (excluded)
+data_raw/imdb_reviews_cleaned.csv
+data_raw/imdb_movies_cleaned.csv
+outputs/imdb_for_tableau.csv
 
 # Jupyter checkpoints
 notebooks/.ipynb_checkpoints/
